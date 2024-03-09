@@ -15,6 +15,13 @@
 % Volume 330, 1 March 2018, Pages 123-148,
 % https://doi.org/10.1016/j.cma.2017.10.021  
 %
+% The research presented in that article has received funding from the European Research Council through the ERC Starting Grant 
+% “Multi-field and multi-scale Computational Approach to Design and Durability of PhotoVoltaic Modules”— CA2PVM, 
+% under the European Union’s Seventh Framework Programme (FP/2007–2013)/ERC Grant Agreement no. 306622. 
+% Support to the projects funded by the Spanish Ministry of Economy and Competitiveness 
+% (Projects MAT2015–71036-P and MAT2015–71309-P) 
+% and the Andalusian Government (Projects of Excellence No. TEP-7093 and P12-TEP-1050) are also acknowledged.
+%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 % (1)	Run the MATLAB script "main_polyMESH.m" to generate 
