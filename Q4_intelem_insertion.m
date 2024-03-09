@@ -3,7 +3,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
-% Purpose: Routine for the insertion of interface finite elements 
+% Purpose: Routine for the insertion of interface finite elements  
 %          between grain boundaries (for Q4 continuum finite elements)
 %
 %
