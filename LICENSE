@@ -12,6 +12,14 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
+This software is part of the following article. If used for other research,
+please acknowledge this contribution by citing the following reference: 
+M. Paggi, M. Corrado, J. Reinoso (2017) Fracture of solar-grade anisotropic
+polycrystalline Silicon: A combined phase field - cohesive zone model approach,
+Computer Methods in Applied Mechanics and Engineering, 
+Volume 330, 1 March 2018, Pages 123-148,
+https://doi.org/10.1016/j.cma.2017.10.021  
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
