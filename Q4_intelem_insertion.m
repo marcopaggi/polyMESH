@@ -10,7 +10,7 @@
 % This code is part of the following article. If used for other research,
 % please acknowledge this contribution by citing the following reference: 
 %
-% M. Paggi, M. Corrado, J. Reinoso (2017) Fracture of solar-grade anisotropic
+% M. Paggi, M. Corrado, J. Reinoso (2018) Fracture of solar-grade anisotropic
 % polycrystalline Silicon: A combined phase field - cohesive zone model approach,
 % Computer Methods in Applied Mechanics and Engineering, 
 % Volume 330, 1 March 2018, Pages 123-148,
